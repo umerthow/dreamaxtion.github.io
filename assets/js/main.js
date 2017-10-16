@@ -74,8 +74,8 @@ jQuery(document).ready(function ($) {
         slidesToShow: 1,
         slidesToScroll: 1,
         arrows: true,
-        prevArrow: "<i class='icon icon-chevron-left nextprevleft'></i>",
-        nextArrow: "<i class='icon icon-chevron-right nextprevright'></i>",
+        // prevArrow: "<i class='icon icon-chevron-left nextprevleft'></i>",
+        // nextArrow: "<i class='icon icon-chevron-right nextprevright'></i>",
         autoplay: true,
         autoplaySpeed: 2000
     });

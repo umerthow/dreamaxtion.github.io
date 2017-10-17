@@ -38,6 +38,17 @@ jQuery(document).ready(function ($) {
     });
     wow.init();
 
+
+
+//counter
+
+
+        $('.counter').counterUp({
+            delay: 10,
+            time: 1000
+        });
+
+
 // magnificPopup
 
     $('.popup-img').magnificPopup({
